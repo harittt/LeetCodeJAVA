@@ -1,4 +1,3 @@
-package Array;
 class Solution {
     public int removeDuplicates(int[] nums) {
     int count=0;
