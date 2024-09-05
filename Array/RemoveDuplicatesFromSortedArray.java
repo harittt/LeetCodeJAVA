@@ -5,7 +5,7 @@ class Solution {
         if(nums[count] != nums[i]){
             nums[++count] = nums[i];
         }
-    }
+    } 
     count++;
     return count;
     }
